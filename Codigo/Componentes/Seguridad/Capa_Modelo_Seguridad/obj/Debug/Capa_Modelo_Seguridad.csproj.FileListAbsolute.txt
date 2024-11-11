@@ -1,0 +1,6 @@
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.pdb
