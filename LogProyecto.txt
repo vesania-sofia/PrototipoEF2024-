@@ -1,0 +1,69 @@
+commit d547e50e605617aaa607e42c68e97b213bf48876
+Merge: 4bf486b 5aff4fa
+Author: kgomezt2@miumg.edu.gt <kgomezt2@miumg.edu.gt>
+Date:   Mon Nov 11 09:45:06 2024 -0600
+
+    Merge branch 'main' of https://github.com/vesania-sofia/PrototipoEF2024-
+
+commit 4bf486babd88df49d29d848368e879abafaedbca
+Author: kgomezt2@miumg.edu.gt <kgomezt2@miumg.edu.gt>
+Date:   Mon Nov 11 09:44:30 2024 -0600
+
+    base de datos utilizada durante el examen
+
+commit 5aff4fa314a85387d4625f9a2042411b9e833786
+Merge: 51ab0fa f52cd4f
+Author: Karla-Tobar <97969064+vesania-sofia@users.noreply.github.com>
+Date:   Mon Nov 11 09:38:44 2024 -0600
+
+    Merge pull request #3 from vesania-sofia/RamaTransaccional9959211896
+    
+    modulo transaccional creado
+
+commit f52cd4fda1ed17f2da91fe4cc9bc84bffba5d3a0
+Author: kgomezt2@miumg.edu.gt <kgomezt2@miumg.edu.gt>
+Date:   Mon Nov 11 09:07:45 2024 -0600
+
+    modulo transaccional creado
+
+commit 51ab0fac4ffb61d5d43e54593e2d428eb4375802
+Author: kgomezt2@miumg.edu.gt <kgomezt2@miumg.edu.gt>
+Date:   Mon Nov 11 08:51:38 2024 -0600
+
+    limpieza
+
+commit 36ae5700cf53fc738e0be2733ab1e851f5c48cfe
+Merge: e5398fb c7c978f
+Author: Karla-Tobar <97969064+vesania-sofia@users.noreply.github.com>
+Date:   Mon Nov 11 08:50:39 2024 -0600
+
+    Merge pull request #2 from vesania-sofia/RamaMantenimientos9959211896
+    
+    mantenimientos agregados
+
+commit c7c978f1ce4a96c1d07e6b9849e752eb0dd55e61
+Author: kgomezt2@miumg.edu.gt <kgomezt2@miumg.edu.gt>
+Date:   Mon Nov 11 08:48:39 2024 -0600
+
+    mantenimientos agregados
+
+commit e5398fb79f70be8a3679bb1152c458d42e919946
+Merge: 0653887 56393cb
+Author: Karla-Tobar <97969064+vesania-sofia@users.noreply.github.com>
+Date:   Mon Nov 11 08:45:34 2024 -0600
+
+    Merge pull request #1 from vesania-sofia/RamaContenedor9959211896
+    
+    contendedor creado para el examen
+
+commit 56393cb9fa8d9ece0676154dadae8b5d8ad156b5
+Author: kgomezt2@miumg.edu.gt <kgomezt2@miumg.edu.gt>
+Date:   Mon Nov 11 08:41:02 2024 -0600
+
+    contendedor creado para el examen
+
+commit 06538872229269bff0af6c75419b6d4f25341e8d
+Author: Karla-Tobar <97969064+vesania-sofia@users.noreply.github.com>
+Date:   Mon Nov 11 08:28:15 2024 -0600
+
+    Initial commit
