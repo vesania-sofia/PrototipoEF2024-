@@ -1,0 +1,121 @@
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.AssemblyReference.cache
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.Properties.Resources.resources
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.GenerateResource.cache
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CoreCompileInputs.cache
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe.config
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.pdb
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.dll
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.pdb
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CopyComplete
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.exe
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.pdb
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.dll
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.dll
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.pdb
+D:\Users\sofia\Documents\OCTAVO SEMESTRE\Analisis 2\proyecto 2\Borrador de cotizacion y facturas\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe.config
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.Properties.Resources.resources
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.GenerateResource.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CopyComplete
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe.config
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.Properties.Resources.resources
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.GenerateResource.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CopyComplete
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\new\copia\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe.config
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\stdole.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.Properties.Resources.resources
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.GenerateResource.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CopyComplete
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\final\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe.config
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Ejecución_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\stdole.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Vista_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\bin\Debug\Capa_Modelo_Cotizacion.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.Properties.Resources.resources
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.GenerateResource.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.csproj.CopyComplete
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.exe
+C:\Users\sofia\Documents\Repositorio Proyecto 2\extra\asis22k24proy2\Codigo\Modulos\Comercial\Cotizacion\Ejecución_Cotizacion\Ejecución_Cotizacion\obj\Debug\Ejecución_Cotizacion.pdb
